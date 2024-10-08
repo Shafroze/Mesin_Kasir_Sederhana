@@ -1,1 +1,4 @@
-# Mesin_Kasir_Sederhana
+# Tugas Asistensi P1
+# Mesin Kasir Sederhana
+
+# Deskripsi Program
