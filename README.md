@@ -1,5 +1,5 @@
 # Tugas Asistensi P1
-Tugas Asistensi Praktikum Dasar Pemrograman modul P1
+Tugas Asistensi Praktikum Dasar Pemrograman modul P1 yang berjudul "Pengenalan Bahasa C"
 # Mesin Kasir Sederhana
 Program Mesin kasir sederhana
 
